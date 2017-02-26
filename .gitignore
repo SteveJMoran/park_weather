@@ -1,2 +1,7 @@
+# Mac
 .DS_Store
+# API config
 config.js
+#Sass
+.sass-cache/
+styles.css.map
