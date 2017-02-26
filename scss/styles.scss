@@ -1,6 +1,9 @@
+@import "_reset";
 @import "_variables";
 
-.trip-card {
-	border-radius: 6px;
-	box-shadow: $box-shadow-base;
+@import "components/_cards";
+
+.container {
+	max-width: 800px;
+	margin: 0 auto;
 }
