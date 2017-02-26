@@ -3,5 +3,5 @@
 # API config
 config.js
 #Sass
-.sass-cache/
+scss/.sass-cache/
 styles.css.map
