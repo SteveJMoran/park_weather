@@ -54,4 +54,8 @@ table {
   max-width: 800px;
   margin: 0 auto; }
 
+.clock {
+  width: 200px;
+  height: 200px; }
+
 /*# sourceMappingURL=styles.css.map */
